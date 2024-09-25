@@ -52,5 +52,3 @@ require("lazy").setup({
     },
   },
 })
-
-vim.cmd.t_Co = "256"
