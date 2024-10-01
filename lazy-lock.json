@@ -1,5 +1,6 @@
 {
   "LazyVim": { "branch": "main", "commit": "a1c3ec4cd43fe61e3b614237a46ac92771191c81" },
+  "SchemaStore.nvim": { "branch": "main", "commit": "274fe3391cd4bdea17df72abfbbc84404b7f7b8d" },
   "bufferline.nvim": { "branch": "main", "commit": "0b2fd861eee7595015b6561dade52fb060be10c4" },
   "catppuccin": { "branch": "main", "commit": "63685e1562ef53873c9764b483d7ac5c7a608922" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
@@ -39,7 +40,6 @@
   "persistence.nvim": { "branch": "main", "commit": "f6aad7dde7fcf54148ccfc5f622c6d5badd0cc3d" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "rust-tools.nvim": { "branch": "master", "commit": "676187908a1ce35ffcd727c654ed68d851299d3e" },
-  "supermaven-nvim": { "branch": "main", "commit": "3da044bbc23a354e9cb17602ed2d5ca8528173bb" },
   "tailwindcss-colorizer-cmp.nvim": { "branch": "main", "commit": "3d3cd95e4a4135c250faf83dd5ed61b8e5502b86" },
   "telescope-fzf-native.nvim": { "branch": "main", "commit": "cf48d4dfce44e0b9a2e19a008d6ec6ea6f01a83b" },
   "telescope.nvim": { "branch": "master", "commit": "175178e3889c13a840f036d464aee2d145157b9e" },
